@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$('.presenter-block').accordion({
+	$('#accordion').accordion({
 		collapsible: true,
 		active: false
 	});
