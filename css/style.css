@@ -29,3 +29,14 @@
 	margin-left: auto;
 	margin-right: auto;
 }
+
+.presenter-img {
+	width: 17.5%;
+	height: 17.5%;
+	float: left;
+	margin: 10px;
+}
+
+.presenter-block {
+	margin-bottom: 20px;
+}
